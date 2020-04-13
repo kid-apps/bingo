@@ -13,9 +13,10 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/LICENSE": "14238135649a8d66cb9ce4bd74702334",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
+"favicon.ico": "e39d2df8fe77cab5fd1377814ee176b3",
 "index.html": "8d84b7b2a6d9b2576c7a98447a3c9504",
 "/": "8d84b7b2a6d9b2576c7a98447a3c9504",
-"main.dart.js": "2958845026c07456c7e45c79154bcceb"
+"main.dart.js": "c6b50d2f8cb0d4b9eb1c37958d42415a"
 };
 
 self.addEventListener('activate', function (event) {
