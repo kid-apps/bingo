@@ -11,14 +11,14 @@ const RESOURCES = {
 "assets/assets/strike.mp3": "3381a980f2497b94b67c55b3cedee018",
 "assets/FontManifest.json": "580ff1a5d08679ded8fcf5c6848cece7",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "8b2654e4426a963694756e475d40b9ca",
+"assets/LICENSE": "a7c2f03ba2c9e178e627766303cc167f",
 "favicon.ico": "3bb4e13dc6d7a29148bdeba81dbbd413",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "8d84b7b2a6d9b2576c7a98447a3c9504",
 "/": "8d84b7b2a6d9b2576c7a98447a3c9504",
-"main.dart.js": "6bfdf9632cf6e2b468c35a87f90c8a8f",
+"main.dart.js": "d50c5aa3a1b421a762e58bea9ad66dc5",
 "manifest.json": "db10256232186578bd2e7f9ae4b2315c"
 };
 
